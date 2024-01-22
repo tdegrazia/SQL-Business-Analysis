@@ -42,4 +42,9 @@ This project involves the transformation and analysis of data using SQL. The pri
 - The data given was only representative of a single business day and cannot be adjusted over time as a result.
 - Feel free to adapt the SQL queries and steps based on the specifics of your project and dataset.
 
+## Looker Studio Links
+
+- https://lookerstudio.google.com/reporting/24e34d25-f8a5-4ba3-a8aa-3cbd5cba61d4/page/14AnD?s=oZk1KaMv3RQ
+- https://lookerstudio.google.com/reporting/a201ea65-c7f8-4075-9953-00540d3c0ced/page/D9CnD?s=qRsetrap-o4
+
 Happy analyzing!
